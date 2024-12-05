@@ -1,0 +1,1 @@
+This a quiz game created using python oops and the data we are using from the api. It will give us question and option to answer the question as True or False and based on that the marks are getting counted. 
